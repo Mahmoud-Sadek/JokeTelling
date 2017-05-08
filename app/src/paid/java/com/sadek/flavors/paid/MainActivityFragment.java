@@ -11,9 +11,6 @@ import com.sadek.apps.joketeller.GCEAsyncTask;
 import com.sadek.apps.joketeller.R;
 
 
-/**
- * A placeholder fragment containing a simple view.
- */
 public class MainActivityFragment extends Fragment implements OnTaskCompleted{
     Button mJokeButton;
     public MainActivityFragment() {

@@ -1,10 +1,6 @@
 package com.sadek.flavors.free;
 
 
-/**
- * Created by luisalvarez on 4/5/17.
- */
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -21,9 +17,6 @@ import com.sadek.apps.joketeller.OnTaskCompleted;
 import com.sadek.apps.joketeller.R;
 
 
-/**
- * A placeholder fragment containing a simple view.
- */
 public class MainActivityFragment extends Fragment implements OnTaskCompleted {
     Button mJokeButton;
 
